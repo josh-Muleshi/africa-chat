@@ -7,5 +7,5 @@ The affrica chat project, it's something which will be like WhatsApp or messenge
 
 ### Contact - Let's become friend / About me
 
- - .[twitter].(https://twitter.com/home?lang=fr)
- - .[faceboock].(https://web.facebook.com/josue.muleshi?ref=bookmarks)
+- [Twitter](https://twitter.com/home?lang=fr)
+- [Facebook](https://web.facebook.com/josue.muleshi?ref=bookmarks)
